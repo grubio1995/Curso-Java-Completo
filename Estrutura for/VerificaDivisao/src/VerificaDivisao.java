@@ -1,6 +1,16 @@
 import java.util.Locale;
 import java.util.Scanner;
 
+/**
+ * 
+ * @author Gabriel Rubio
+ *
+ *         Fazer um programa para ler um número N. Depois leia N pares de
+ *         números e mostre a divisão do primeiro pelo segundo. Se o denominador
+ *         for igual a zero, mostrar a mensagem "divisao impossivel".
+ *
+ */
+
 public class VerificaDivisao {
 
 	public static void main(String[] args) {
@@ -25,7 +35,7 @@ public class VerificaDivisao {
 				System.out.printf("%.1f%n", (n1 / n2));
 
 		}
-		
+
 		sc.close();
 	}
 }
