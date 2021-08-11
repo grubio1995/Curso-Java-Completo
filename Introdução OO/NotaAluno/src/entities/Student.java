@@ -12,6 +12,6 @@ public class Student {
 	}
 
 	public double missingGradePoints(double finalGrade) {
-		return finalGrade - 60;
+		return 60 -  finalGrade;
 	}
 }
