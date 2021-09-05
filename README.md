@@ -1,2 +1,2 @@
 # Curso-Java-Completo
-Exercícios propostos durante o curso
+Exercícios  e exemplos propostos durante o curso
